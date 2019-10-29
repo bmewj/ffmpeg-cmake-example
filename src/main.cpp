@@ -14,5 +14,6 @@ int main(int argc, const char** argv) {
         return -1;
     }
 
+    printf("Opened the file!!!!\n");
     return 0;
 }
